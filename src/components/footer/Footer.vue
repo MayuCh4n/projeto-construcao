@@ -11,19 +11,19 @@
         <div class="col-lg-3 col-xs-12 links">
           <h4 class="mt-lg-0 mt-sm-3">Links</h4>
           <ul class="m-0 p-0">
-            <li>
+            <li class="lista-alinhamento">
               -
               <a href="#">Home</a>
             </li>
-            <li>
+            <li class="lista-alinhamento">
               -
               <a href="#">Productos</a>
             </li>
-            <li>
+            <li class="lista-alinhamento">
               -
               <a href="#">Servicios</a>
             </li>
-            <li>
+            <li class="lista-alinhamento">
               -
               <a href="#">Contacto</a>
             </li>
@@ -31,16 +31,16 @@
         </div>
 
         <div class="col-lg-4 col-xs-12 location">
-          <h4 class="mt-lg-0 mt-sm-4">Fale Conosco</h4>
+          <h4 class="mt-lg-0 mt-sm-4">Teléfono</h4>
           <p class="mb-0">
-            <i class="fa fa-phone mr-3"></i>0800-704-1418
+            <i class="fa fa-phone mr-3"></i>+56 9 4270-8322
           </p>
         </div>
       </div>
       <div class="row mt-5">
         <div class="col copyright">
           <p class>
-            <small class="text-white-50">© 2019. All Rights Reserved.</small>
+            <small class="text-white-50">© 2020. All Rights Reserved.</small>
           </p>
         </div>
       </div>
@@ -68,6 +68,10 @@
 .footer .links li a:hover {
   text-decoration: none;
   color: #CAF0F8;
+}
+ .lista-alinhamento {
+    text-align: start;
+    padding-left: 100px;
 }
 .footer .about-company i {
   font-size: 25px;
