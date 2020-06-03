@@ -70,5 +70,15 @@
       color: #0077B6 !important; 
     }
 
+    @media(max-width: 553px) {
+        #imagem{
+          height: 50%;
+          width: 200px;
+          margin: 0;
+          padding: 0;
+          position:inherit;
+          align-self: start;
+    }
+    }
 
 </style>
