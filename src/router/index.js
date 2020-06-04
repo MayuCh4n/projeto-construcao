@@ -15,19 +15,19 @@ Vue.use(VueRouter)
   },
 
   {
-    path: '/',
+    path: '/Contacto',
     name: 'Contacto',
     component: Contacto
   },
 
   {
-    path: '/',
+    path: '/Productos',
     name: 'Productos',
     component: Productos
   },
 
   {
-    path: '/',
+    path: '/Servicios',
     name: 'Servicios',
     component: Servicios
   }

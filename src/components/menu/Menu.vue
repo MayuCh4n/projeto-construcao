@@ -7,10 +7,22 @@
     
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="#" class="espaçamento">Home</b-nav-item>
-        <b-nav-item href="#" class="espaçamento">Productos</b-nav-item>
-        <b-nav-item href="#" class="espaçamento">Servicios</b-nav-item>
-        <b-nav-item href="#" class="espaçamento">Contacto</b-nav-item>
+        <router-link to="/">
+          <b-nav-item class="espaçamento">Home</b-nav-item>
+        </router-link>
+
+        <router-link to="/Productos">
+          <b-nav-item class="espaçamento">Productos</b-nav-item>
+        </router-link>
+
+        <router-link to="/Servicios">
+         <b-nav-item class="espaçamento">Servicios</b-nav-item>
+        </router-link>
+
+        <router-link to="/Contacto">
+          <b-nav-item class="espaçamento">Contacto</b-nav-item>
+        </router-link>
+
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
