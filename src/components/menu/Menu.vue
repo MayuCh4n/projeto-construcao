@@ -6,21 +6,23 @@
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
     
     <b-collapse id="nav-collapse" is-nav>
-      <b-navbar-nav>
-        <router-link to="/">
-          <b-nav-item class="espaçamento">Home</b-nav-item>
+
+      <b-navbar-nav class="navbar"> 
+
+        <router-link to="/" class="espaçamento">
+          Home
         </router-link>
 
-        <router-link to="/Productos">
-          <b-nav-item class="espaçamento">Productos</b-nav-item>
+        <router-link to="/Productos" class="espaçamento">
+          Productos
         </router-link>
 
-        <router-link to="/Servicios">
-         <b-nav-item class="espaçamento">Servicios</b-nav-item>
+        <router-link to="/Servicios" class="espaçamento">
+          Servicios
         </router-link>
 
-        <router-link to="/Contacto">
-          <b-nav-item class="espaçamento">Contacto</b-nav-item>
+        <router-link to="/Contacto" class="espaçamento">
+          Contacto
         </router-link>
 
       </b-navbar-nav>
@@ -66,14 +68,16 @@
       margin-left: 90px;
     }
     .espaçamento{
-      margin-left: 20px;
+      margin-left: 40px;
+      margin-top: 10px;
       color:black !important; 
     }
-    .espaçamento > a{
+    .navbar > a{
       color:rgb(49, 49, 49) !important; 
     }
-    .espaçamento > a:hover{
+    .navbar > a:hover{
       color: #0077B6 !important;
+      text-decoration: none;
     }
     #idioma > a{
       color:rgb(49, 49, 49) !important; 
