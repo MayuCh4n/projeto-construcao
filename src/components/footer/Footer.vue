@@ -13,19 +13,19 @@
           <ul class="m-0 p-0">
             <li class="lista-alinhamento">
               -
-              <a href="#">Home</a>
+              <router-link to="/">Home</router-link>
             </li>
             <li class="lista-alinhamento">
               -
-              <a href="#">Productos</a>
+              <router-link to="/Productos">Productos</router-link>
             </li>
             <li class="lista-alinhamento">
               -
-              <a href="#">Servicios</a>
+              <router-link to="/Servicios">Servicios</router-link>
             </li>
             <li class="lista-alinhamento">
               -
-              <a href="#">Contacto</a>
+              <router-link to="/Contacto">Contacto</router-link>
             </li>
           </ul>
         </div>
