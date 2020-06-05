@@ -11,7 +11,7 @@
       </b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12" id="img">
-            <a href="/"><img src="../../assets/teste.jpg" id="imagemhome" alt="home"></a>
+            <a href="/"><img src="../../assets/menu-imgs/teste.jpg" id="imagemhome" alt="home"></a>
       </b-col>
 
     </b-row>
@@ -41,7 +41,7 @@ export default {
     margin-right: 10%;
     text-align: center;
     text-align: justify;
-    font-size: 19px;
+    font-size: 20px;
     grid-area: menu;
   }
   #imagemhome {
