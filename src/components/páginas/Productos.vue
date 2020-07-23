@@ -149,13 +149,25 @@ export default {
     font-size: 20px;
     list-style: none;
   }
-  @media(max-width: 350px){
-    .texto,
-    .texto-produto,
-    .texto-tspro{
+  @media(max-width: 765px){
+    html,body
+    {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden; 
+    }
+
+    .texto, .texto-produto, .texto-tspro {
     margin: 0;
+    padding: 20px;
+    list-style: none;
+    margin-right: 0%;
+    text-align: center;
     font-size: 20px;
-    padding: 30px;
+    grid-area: menu;
+    margin-top: 30px;
     }
   }
 </style>
