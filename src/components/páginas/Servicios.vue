@@ -8,14 +8,19 @@
         </p>
       </b-col>
 
-      <b-row>
-        <b-col cols="12" md="12" sm="12" xs="12">
-          <b-col cols="6" md="12" sm="12" xs="12">
-            <img src="../../assets/servicios-imgs/braço-carregamento.png" id="imgbraço">
-            <p>TE AMO</p>
-          </b-col>  
-         </b-col>     
-      </b-row>
+      <b-col cols="3" md="3" sm="12" xs="12">
+          <b-col md="3" sm="12" xs="12">
+            <img src="../../assets/servicios-imgs/braço-carregamento.png" id="imgbraço">  
+          </b-col>
+      </b-col>
+
+      <b-col cols="3" md="3" sm="12" xs="12">
+          <b-col md="3" sm="12" xs="12">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          </b-col>
+      </b-col>
+
+
 
     </b-row>
   </b-container>
