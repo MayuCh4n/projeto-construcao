@@ -8,17 +8,14 @@
         </p>
       </b-col>
 
-      <b-col cols="3" xl="3" md="3" sm="12" xs="12">
-          <b-col xl="12" md="3" sm="12" xs="12">
+      <b-col xl="6" md="6" sm="12" xs="12">
             <img src="../../assets/servicios-imgs/braço-carregamento.png" id="imgbraço">  
-          </b-col>
       </b-col>
 
-      <b-col cols="3" xl="3" md="3" sm="12" xs="12" class="link">
-          <b-col xl="12" md="12" sm="12" xs="12">
-            informações tecnicas <br>
-            clique
-            <a href="http://" target="_blank" rel="noopener noreferrer">aqui</a>
+      <b-col  xl="6" md="6" sm="12" xs="12" class="link">
+          <b-col  xl="12" md="12" sm="12" xs="12" class="link">
+                    informações tecnicas:<br>
+                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
           </b-col>
       </b-col>
 
@@ -43,6 +40,15 @@ export default {
     font-size: 20px;
   }
   
+  .link {
+    padding: 10px;
+    text-align: center;
+  }
+
+  .btn-baixar {
+    margin: 10px;
+  }
+
   .descricao{
     margin: 10px;
     padding: 0;
@@ -59,11 +65,6 @@ export default {
 
     padding: 15px;
     margin-top: 10px;
-  }
-
-  .link {
-    text-align: justify;
-    margin-top: 100px;
   }
 
 </style>
