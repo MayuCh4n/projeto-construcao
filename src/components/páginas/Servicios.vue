@@ -15,8 +15,10 @@
       </b-col>
 
       <b-col cols="3" md="3" sm="12" xs="12">
-          <b-col md="3" sm="12" xs="12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          <b-col md="12" sm="12" xs="12">
+            informações tecnicas <br>
+            clique
+            <a href="http://" target="_blank" rel="noopener noreferrer">aqui</a>
           </b-col>
       </b-col>
 
