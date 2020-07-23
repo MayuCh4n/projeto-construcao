@@ -1,9 +1,9 @@
 <template>
   <b-container id="container" fluid>
-    <b-row id="fundo">
+    <b-row id="fundo1">
 
       <b-col cols="12" md="6" sm="12" xs="12" id="logo">
-        <img src="../../assets/productos-imgs/Metroval.png">
+        <a href="https://metroval.com.br/" target="blank"><img src="../../assets/productos-imgs/Metroval.png"></a>
         <p class="subtitulo-imagem">Mas de 30 anos midiendo lo que precisa ser medido</p>
       </b-col>
 
@@ -27,9 +27,8 @@
       </b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12" id="logo">
-        <img src="../../assets/productos-imgs/PHDMaster.png">
+        <a href="http://www.phdmaster.com.br/index.html" target="blank"><img src="../../assets/productos-imgs/PHDMaster.png"></a>
         <p class="subtitulo-imagem">La experiencia de tres décadas de phd master ofreciendo soluciones a sus clientes en:</p>
-
       </b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12" id="logo">
@@ -65,7 +64,7 @@
       <b-col cols="12" md="7" sm="12" xs="12" id="icone"></b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12" id="logo1">
-        <img src="../../assets/productos-imgs/TSPro.png">
+        <a href="https://www.tspro.com.br/" target="blank"><img src="../../assets/productos-imgs/TSPro.png"></a>
       </b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12">
@@ -84,8 +83,8 @@ export default {
 </script>
 
 <style>
-  #fundo{
-    background-color: rgb(231, 230, 230);
+  #fundo1{
+    background-color: white;
   }
   .texto{
     margin: 0;
@@ -132,7 +131,7 @@ export default {
     padding-bottom: 40px;
   }
   #logo{
-    padding: 20px;
+    padding: 30px;
     margin-top: 30px;
   }
   #logo1{
