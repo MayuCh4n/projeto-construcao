@@ -21,6 +21,19 @@
           Servicios
         </router-link>
 
+      <!-- TODO TRANSFORMAR SERVICIOS EM DROPDOWN COM TRÊS PÁGINAS -->
+      <!-- <b-nav-item-dropdown
+        id="my-nav-dropdown"
+        class="espaçamento idioma"
+        text="Servicios"
+        toggle-class="nav-link-custom"
+        right
+      >
+        <b-dropdown-item to="/">Metroval</b-dropdown-item>
+        <b-dropdown-item>Phd Master</b-dropdown-item>
+        <b-dropdown-item>Ts pro</b-dropdown-item>
+      </b-nav-item-dropdown> -->
+
         <router-link to="/Contacto" class="espaçamento">
           Contacto
         </router-link>
@@ -29,12 +42,15 @@
 
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
+        
 
-        <b-nav-item-dropdown text="Idioma" id="idioma" right>
+        <b-nav-item-dropdown text="Idioma" class=" espaçamento idioma" right>
           <b-dropdown-item href="#">EN</b-dropdown-item>
           <b-dropdown-item href="#">ES</b-dropdown-item>
           <b-dropdown-item href="#">PT</b-dropdown-item>
         </b-nav-item-dropdown>
+
+        
           
       </b-navbar-nav>
     </b-collapse>
@@ -64,13 +80,12 @@
         margin: 0;
         padding: 0;
     }
-    #nav-collapse{
-      margin-left: 90px;
-    }
+
     .espaçamento{
       margin-left: 40px;
       margin-top: 10px;
       color:black !important; 
+      display: block;
     }
     .navbar > a{
       color:rgb(49, 49, 49) !important; 
@@ -79,14 +94,14 @@
       color: #0077B6 !important;
       text-decoration: none;
     }
-    #idioma > a{
+    .idioma > a{
       color:rgb(49, 49, 49) !important; 
     }
-    #idioma > a:hover{
+    .idioma > a:hover{
       color: #0077B6 !important; 
     }
 
-    @media(max-width: 553px) {
+    @media(max-width: 1141px) {
         #imagem{
           height: 50%;
           width: 200px;
@@ -95,6 +110,16 @@
           position:inherit;
           align-self: start;
     }
+
     }
+
+    @media(max-width: 991px) {
+      .espaçamento {
+        align-self: end;
+        margin-left: 0;
+      }
+    }
+
+
 
 </style>

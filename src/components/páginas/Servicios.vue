@@ -9,12 +9,14 @@
       </b-col>
 
       <b-col xl="6" md="6" sm="12" xs="12">
-            <img src="../../assets/servicios-imgs/braço-carregamento.png" id="imgbraço">  
+            <img src="../../assets/servicios-imgs/braço-carregamento.png" alt="Left image">  
+            <p>braço mecânico</p>
       </b-col>
 
       <b-col  xl="6" md="6" sm="12" xs="12" class="link">
-          <b-col  xl="12" md="12" sm="12" xs="12" class="link">
+          <b-col align-v="end" xl="12" md="12" sm="12" xs="12" class="link">
                     informações tecnicas:<br>
+                    <a href="http://"></a>
                     <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
           </b-col>
       </b-col>
