@@ -4,7 +4,7 @@
 
       <b-col cols="12" md="6" sm="12" xs="12">
         <p class="descricao">
-          <br>Surge como necesidad de dar una alternativa nueva, dando soluciones más ecológicas y seguras. 
+          <br>Surge como necesidad de dar una alternativa nueva, dando soluciones más ecológicas y seguras.  
           Aportando un valor añadido a las empresas, con soluciones de alta tecnología y primera calidad con 
           un coste al alcance de toda empresa o usuario. 
         </p>
