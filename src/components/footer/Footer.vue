@@ -20,8 +20,19 @@
               <router-link to="/Productos">Productos</router-link>
             </li>
             <li class="lista-alinhamento">
-              -
-              <router-link to="/Servicios">Servicios</router-link>
+              - Servicios:
+            </li>
+            <li class="lista-alinhamento">
+              
+              <router-link to="/PhdMaster">PhdMaster</router-link>
+            </li>
+            <li class="lista-alinhamento">
+              
+              <router-link to="/Metroval">Metroval</router-link>
+            </li>
+            <li class="lista-alinhamento">
+              
+              <router-link to="/Servicios">TsPro</router-link>
             </li>
             <li class="lista-alinhamento">
               -

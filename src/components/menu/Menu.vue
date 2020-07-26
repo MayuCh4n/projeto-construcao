@@ -17,22 +17,18 @@
           Productos
         </router-link>
 
-        <router-link to="/Servicios" class="espaçamento">
-          Servicios
-        </router-link>
-
       <!-- TODO TRANSFORMAR SERVICIOS EM DROPDOWN COM TRÊS PÁGINAS -->
-      <!-- <b-nav-item-dropdown
+      <b-nav-item-dropdown
         id="my-nav-dropdown"
         class="espaçamento idioma"
         text="Servicios"
         toggle-class="nav-link-custom"
         right
       >
-        <b-dropdown-item to="/">Metroval</b-dropdown-item>
-        <b-dropdown-item>Phd Master</b-dropdown-item>
-        <b-dropdown-item>Ts pro</b-dropdown-item>
-      </b-nav-item-dropdown> -->
+        <b-dropdown-item to="/Metroval">Metroval</b-dropdown-item>
+        <b-dropdown-item to="/PhdMaster">Phd Master</b-dropdown-item>
+        <b-dropdown-item to="/Servicios">Ts pro</b-dropdown-item>
+      </b-nav-item-dropdown>
 
         <router-link to="/Contacto" class="espaçamento">
           Contacto
@@ -44,7 +40,7 @@
       <b-navbar-nav class="ml-auto">
         
 
-        <b-nav-item-dropdown text="Idioma" class=" espaçamento idioma" right>
+        <b-nav-item-dropdown text="Idioma" class="espaçamento idioma" right>
           <b-dropdown-item href="#">EN</b-dropdown-item>
           <b-dropdown-item href="#">ES</b-dropdown-item>
           <b-dropdown-item href="#">PT</b-dropdown-item>
@@ -115,7 +111,7 @@
 
     @media(max-width: 991px) {
       .espaçamento {
-        align-self: end;
+        align-self: center;
         margin-left: 0;
       }
     }
