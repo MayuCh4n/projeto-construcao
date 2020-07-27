@@ -10,15 +10,15 @@
 
       <b-col xl="6" md="6" sm="12" xs="12">
             <img src="../../../assets/servicios-imgs/braço-carregamento.png" alt="Left image">  
-            <p>Braço de Carregamento</p>
+            <p>Braço de Carregamento - BOTTOM Loading (Carregamento por Baixo)</p>
              Informações Técnicas:<br>
                     <a href="https://www.tspro.com.br/" target="blank">www.tspro.com.br</a><br>
                     <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
-            <img src="../../../assets/servicios-imgs/braço-carregamento.png" alt="Left image">  
-            <p>Braço de Carregamento</p>
+            <img src="../../../assets/servicios-imgs/bracotop.png" alt="Left image">  
+            <p>Braço de Carregamento - TOP Loading (Carregamento por Cima)</p>
              Informações Técnicas:<br>
                     <a href="https://www.tspro.com.br/" target="blank">www.tspro.com.br</a><br>
                     <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
