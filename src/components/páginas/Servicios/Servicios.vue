@@ -4,23 +4,23 @@
 
       <b-col xl="12" md="12" sm="12" xs="12">
         <p class="descricao">
-          <br>São os serviços oferidos pela TsPro: 
+          <br>Los productos que ofrece TsPro son: 
         </p>
       </b-col>
 
       <b-col xl="6" md="6" sm="12" xs="12">
             <img src="../../../assets/servicios-imgs/braço-carregamento.png" alt="Left image">  
             <p>Braço de Carregamento - BOTTOM Loading (Carregamento por Baixo)</p>
-             Informações Técnicas:<br>
-                    <a href="https://www.tspro.com.br/" target="blank">www.tspro.com.br</a><br>
+             Informaciones Técnicas:<br>
+                    <a href="https://www.tspro.com.br/braco-de-carregamento-e-descarregamento" target="blank">www.tspro.com.br</a><br>
                     <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
             <img src="../../../assets/servicios-imgs/bracotop.png" alt="Left image">  
             <p>Braço de Carregamento - TOP Loading (Carregamento por Cima)</p>
-             Informações Técnicas:<br>
-                    <a href="https://www.tspro.com.br/" target="blank">www.tspro.com.br</a><br>
+             Informaciones Técnicas:<br>
+                    <a href="https://www.tspro.com.br/braco-de-carregamento-e-descarregamento" target="blank">www.tspro.com.br</a><br>
                     <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
       </b-col>
 
@@ -57,10 +57,8 @@ export default {
     margin: 10px;
     padding: 0;
     list-style: none;
-    margin-left: 700px;
     margin-right: 10%;
     text-align: center;
-    text-align: justify;
     font-size: 20px;
     grid-area: menu;
     color:black;

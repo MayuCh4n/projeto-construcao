@@ -13,7 +13,7 @@
           <ul class="m-0 p-0">
             <li class="lista-alinhamento">
               -
-              <router-link to="/">Home</router-link>
+              <router-link to="/">Início</router-link>
             </li>
             <li class="lista-alinhamento">
               -
@@ -46,6 +46,9 @@
           <p class="mb-0">
             <i class="fa fa-phone mr-3"></i>+56 9 4270-8322
           </p>
+          <p class="mb-0">
+            <i class="fa fa-phone mr-3"></i>+56 9 5748-7427
+          </p>
         </div>
       </div>
       <div class="row mt-5">
@@ -67,6 +70,7 @@
 .footer {
   background: #0077B6;
   color: white;
+  margin-top:20px;
   /* position: initial*/
 }
 .footer .links ul {
@@ -100,4 +104,5 @@
 .footer .copyright p {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+
 </style>

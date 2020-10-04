@@ -10,7 +10,7 @@
       <b-navbar-nav class="navbar"> 
 
         <router-link to="/" class="espaçamento">
-          Home
+          Início
         </router-link>
 
         <router-link to="/Productos" class="espaçamento">

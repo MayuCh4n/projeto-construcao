@@ -3,9 +3,9 @@
     <b-form @submit="onSubmit" @reset="onReset">
     <b-row align-h="center">
         <b-col  md="6" class="nome">
-          <p class="text2"> Para dúvidas, contacte-nos:</p>
-          <b-form-group label="*Nome:"  label-for="nome" label-align="left">
-            <b-form-input id="nome"  v-model="text" placeholder="Enter your name"></b-form-input>
+          <p class="text2"> En caso de duda, contáctenos por correo electrónico:</p>
+          <b-form-group label="*Nombre:"  label-for="nome" label-align="left">
+            <b-form-input id="nome"  v-model="text" placeholder="Introduzca su nombre"></b-form-input>
           </b-form-group>
         </b-col>
     </b-row>
@@ -13,23 +13,23 @@
     <b-row align-h="center">
         <b-col  md="6" class="email">
            <b-form-group label="*Email:"  label-for="email" label-align="left">
-            <b-form-input id="email"  v-model="email" placeholder="Enter your email"></b-form-input>
+            <b-form-input id="email"  v-model="email" placeholder="Introduzca su email"></b-form-input>
           </b-form-group>
         </b-col>
     </b-row>
 
     <b-row align-h="center">
         <b-col  md="6" class="tel">
-          <b-form-group label="*Telefone:"   label-for="tel" label-align="left">
-            <b-form-input id="tel" type="number" v-model="tel" placeholder="Enter your tel"></b-form-input>
+          <b-form-group label="*Teléfono:"   label-for="tel" label-align="left">
+            <b-form-input id="tel" type="number" v-model="tel" placeholder="Introduzca su tel"></b-form-input>
           </b-form-group>
         </b-col>
     </b-row>
 
     <b-row align-h="center">
         <b-col  md="6" class="textarea">
-          <b-form-group label="*Mensagem:"  label-for="textarea" label-align="left">
-            <b-form-textarea id="textarea" v-model="mensagem" placeholder="Enter your message"></b-form-textarea>
+          <b-form-group label="*Mensaje:"  label-for="textarea" label-align="left">
+            <b-form-textarea id="textarea" v-model="mensagem" placeholder="Introduzca su mensaje"></b-form-textarea>
           </b-form-group>
         </b-col>
     </b-row>
