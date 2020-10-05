@@ -41,7 +41,7 @@
             <p class="metroval">Medidor de Densidade</p>
              Informaciones Técnicas:<br>
                     <a href="https://metroval.com.br/produtos/medidores-de-densidade/" target="blank">www.metroval.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
+                    <b-button class="btn-baixar" href="https://drive.google.com/file/d/16G1OB0YS_j8DH8Q5t_a1I5wEuvztQfsU/view?usp=sharing" variant="info" target="_blank">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
@@ -112,7 +112,7 @@
             <p class="metroval">Medidores Mássicos Coriolis</p>
              Informaciones Técnicas:<br>
                     <a href="https://metroval.com.br/produtos/medidores-massicos-coriolis/" target="blank">www.metroval.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
+                    <b-button class="btn-baixar" href="https://metroval.com.br/wp-content/uploads/2019/10/AXIOM-WEB.pdf" variant="info" target="_blank">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">

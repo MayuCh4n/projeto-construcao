@@ -13,7 +13,6 @@
             <p>Preset Eletrônico - Single Meter Preset (SMP)</p>
              Informaciones Técnicas:<br>
                     <a href="http://www.phdmaster.com.br/produtos-presets-eletronicos-toptech.html" target="blank">www.phdmaster.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
@@ -21,7 +20,6 @@
             <p class="phd">Preset Eletrônico - Multiload II</p>
              Informaciones Técnicas:<br>
                     <a href="http://www.phdmaster.com.br/produtos-presets-eletronicos-toptech.html" target="blank">www.phdmaster.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
       </b-col>
 
     </b-row>

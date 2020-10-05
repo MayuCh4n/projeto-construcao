@@ -13,7 +13,7 @@
             <p>Braço de Carregamento - BOTTOM Loading (Carregamento por Baixo)</p>
              Informaciones Técnicas:<br>
                     <a href="https://www.tspro.com.br/braco-de-carregamento-e-descarregamento" target="blank">www.tspro.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
+                    <b-button class="btn-baixar" href="https://drive.google.com/file/d/1VuN7OyBvLIKq1eLYEkJpjSjg6Vj6JHLG/view?usp=sharing" variant="info" target="_blank">Download pdf</b-button>
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
@@ -21,7 +21,7 @@
             <p>Braço de Carregamento - TOP Loading (Carregamento por Cima)</p>
              Informaciones Técnicas:<br>
                     <a href="https://www.tspro.com.br/braco-de-carregamento-e-descarregamento" target="blank">www.tspro.com.br</a><br>
-                    <b-button class="btn-baixar" href="https://docs.google.com/uc?export=download&id=1vUbObQtomVkGYSgKLEi6nEqnDIhQv4Cl" variant="info">Download pdf</b-button>
+                    <b-button class="btn-baixar" href="https://drive.google.com/file/d/1VuN7OyBvLIKq1eLYEkJpjSjg6Vj6JHLG/view?usp=sharing" variant="info" target="_blank">Download pdf</b-button>
       </b-col>
 
     </b-row>
