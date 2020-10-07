@@ -4,7 +4,7 @@
 
       <b-col xl="12" md="12" sm="12" xs="12">
         <p class="descricaophd">
-          <br>Los productos que ofrece Metroval son:
+          <br>Los productos que oferece Metroval son:
         </p>
       </b-col>
 

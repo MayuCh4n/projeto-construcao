@@ -4,10 +4,17 @@
 
       <b-col cols="12" md="6" sm="12" xs="12">
         <p class="descricao10">
-          <br>Surge como necesidad de dar una alternativa nueva, dando soluciones más ecológicas y seguras.  
-          Aportando un valor añadido a las empresas, con soluciones de alta tecnología y primera calidad con 
-          un coste al alcance de toda empresa o usuario. 
+          <br>Surge como necesidad de dar una alternativa nueva, dando soluciones más ecológicas y seguras. Aportando un valor añadido a las empresas, 
+          con soluciones de alta tecnología y primera calidad con un coste al alcance de toda empresa o usuario.
+          Gracias a las alianzas de METROVAL, PHD Master y TSPro tenemos el potencial para atender con garantía de éxito, pues contamos en METROVAL 
+          con el más moderno laboratorio de Latinoamérica donde se atiende calibraciones de la norma ABNT ISO/IEC 17025, 
+          además es integrante de la RBC (Red Brasileña de Calibración), además de poseer medidores de calibración en campo.
+          <br><br>Contamos con los sistemas de carga y descarga de fluidos peligrosos químicos, petroquímicos y combustibles más modernos. 
+          Nuestra misión es la transferencia, manipulación y transporte de dichos fluidos con la mayor seguridad y control.
+          <br><br>Desde ATF Chile pretendemos hacer frente a las necesidades de nuestros clientes de los sectores de Alcohol, petroquímico, óleo y gas, terminales de combustibles, etc. 
+          Donde se necesite tener un control del líquido o gas, transformando las necesidades de los clientes en una solución optimizada, para garantizar un retorno de su inversión a corto plazo.
         </p>
+
       </b-col>
 
       <b-col cols="12" md="6" sm="12" xs="12" id="img">
@@ -20,7 +27,7 @@
 
 <script>
 export default {
-
+  
 }
 </script>
 

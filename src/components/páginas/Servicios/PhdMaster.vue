@@ -4,7 +4,7 @@
 
       <b-col xl="12" md="12" sm="12" xs="12">
         <p class="descricaophd">
-          <br>Los productos que ofrece PhdMaster son: 
+          <br>Los productos que oferece PhdMaster son: 
         </p>
       </b-col>
 
