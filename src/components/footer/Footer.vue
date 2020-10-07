@@ -54,7 +54,7 @@
       <div class="row mt-5">
         <div class="col copyright">
           <p class>
-            <small class="text-white-50">© 2020. ATF- Chile. All Rights Reserved.</small>
+            <small class="text-white-50">© ATF- Chile 2020. All Rights Reserved.</small>
           </p>
         </div>
       </div>
