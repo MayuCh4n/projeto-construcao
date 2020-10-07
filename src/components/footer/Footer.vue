@@ -42,7 +42,7 @@
         </div>
 
         <div class="col-lg-4 col-xs-12 location">
-          <h4 class="mt-lg-0 mt-sm-4">Teléfono</h4>
+          <h4 class="mt-lg-0 mt-sm-4 telefonefooter">Teléfono</h4>
           <p class="mb-0">
             <i class="fa fa-phone mr-3"></i>+56 9 4270-8322
           </p>
@@ -85,8 +85,7 @@
   color: #CAF0F8;
 }
  .lista-alinhamento {
-    text-align: start;
-    padding-left: 100px;
+    text-align: center;
 }
 .footer .about-company i {
   font-size: 25px;
@@ -103,6 +102,9 @@
 }
 .footer .copyright p {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+.telefonefooter{
+  margin-top: 20px;
 }
 
 </style>

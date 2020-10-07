@@ -16,7 +16,7 @@
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
-            <img src="../../../assets/PhdMaster/preset.png" alt="Left image">  
+            <img src="../../../assets/PhdMaster/preset.png" alt="Left image" class="imgphd">  
             <p class="phd">Preset Eletrónico - Multiload II</p>
              Informaciones Técnicas:<br>
                     <a href="http://www.phdmaster.com.br/produtos-presets-eletronicos-toptech.html" target="blank">www.phdmaster.com.br</a><br>
@@ -70,5 +70,12 @@ export default {
   .phd{
     margin-top: 57px;
   }
-
+  .imgphd{
+    margin-top: 20px;
+  }
+  @media(max-width: 991px){
+    .imgphd{
+      width: 100%;
+    }
+  }
 </style>

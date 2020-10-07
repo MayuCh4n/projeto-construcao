@@ -3,6 +3,7 @@
     <b-row id="fundo">
 
       <b-col cols="12" md="6" sm="12" xs="12">
+        <h2 class="title">¿Quienes somos?</h2>
         <p class="descricao10">
           <br>Surge como necesidad de dar una alternativa nueva, dando soluciones más ecológicas y seguras. Aportando un valor añadido a las empresas, 
           con soluciones de alta tecnología y primera calidad con un coste al alcance de toda empresa o usuario.
@@ -60,6 +61,9 @@ export default {
   }
   #img{
     padding: 44px;
+  }
+  .title{
+    margin-top: 20px;
   }
 
 </style>

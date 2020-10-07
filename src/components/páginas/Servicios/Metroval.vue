@@ -137,7 +137,7 @@
       </b-col>
 
       <b-col xl="4" md="6" sm="12" xs="12">
-            <img src="../../../assets/Metroval/Metrocone.png" alt="Left image" class="imgmetroval">  
+            <img src="../../../assets/Metroval/Metrocone.png" alt="Left image" class="imgmetrocone">  
             <p class="metroval">Metrocone</p>
              Informaciones Técnicas:<br>
                     <a href="https://metroval.com.br/produtos/medidores-de-vazao/metrocone/" target="blank">www.metroval.com.br</a><br>
@@ -202,5 +202,13 @@ export default {
   }
   .metroval12{
     margin-top: 30px;
+  }
+  .imgmetrocone{
+    margin-top: 20px;
+  }
+  @media(max-width: 991px){
+    .imgmetrocone{
+      width: 100%;
+    }
   }
 </style>
