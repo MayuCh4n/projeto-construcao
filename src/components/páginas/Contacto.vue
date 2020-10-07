@@ -3,14 +3,19 @@
     <b-form @submit="onSubmit" @reset="onReset">
     <b-row align-h="center">
         <b-col  md="6" class="nome">
-          <p class="text2"> En caso de duda, contáctenos por correo electrónico:</p>
-          <b-form-group label="*Nombre:"  label-for="nome" label-align="left">
+          <p class="text2"> En caso de duda, contáctenos por correo electrónico:
+            <br><br><p class="ajuste">Para hablar con Antonio: <br>
+            aseguel@atfchile.cl 
+            <p class="ajuste">Para hablar con Alfonso: <br> agaitan@atfchile.cl
+            <p class="ajuste">Para hablar con Pablo: <br> paraya@atfchile.cl 
+          </p>
+         <!-- <b-form-group label="*Nombre:"  label-for="nome" label-align="left"> 
             <b-form-input id="nome"  v-model="text" placeholder="Introduzca su nombre"></b-form-input>
-          </b-form-group>
+          </b-form-group> -->
         </b-col>
     </b-row>
 
-    <b-row align-h="center">
+    <!-- <b-row align-h="center"> 
         <b-col  md="6" class="email">
            <b-form-group label="*Email:"  label-for="email" label-align="left">
             <b-form-input id="email"  v-model="email" placeholder="Introduzca su email"></b-form-input>
@@ -36,7 +41,7 @@
 
     <div class="botao">
       <b-button variant="outline-info" type="submit">Enviar</b-button>
-    </div>
+    </div> -->
 
 </b-form>    
 
@@ -84,6 +89,9 @@
     margin-left: 475px;
     margin-bottom: 30px;
    padding: 0;
+  }
+  .ajuste{
+    font-size: 18px;
   }
   input::-webkit-outer-spin-button,
   input::-webkit-inner-spin-button {
