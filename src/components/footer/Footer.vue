@@ -17,10 +17,10 @@
             </li>
             <li class="lista-alinhamento">
               -
-              <router-link to="/Productos">Productos</router-link>
+              <router-link to="/Productos">Servicios</router-link>
             </li>
             <li class="lista-alinhamento">
-              - Servicios:
+              - Productos:
             </li>
             <li class="lista-alinhamento">
               

@@ -14,14 +14,14 @@
         </router-link>
 
         <router-link to="/Productos" class="espaçamento">
-          Productos
+          Servicios
         </router-link>
 
       <!-- TODO TRANSFORMAR SERVICIOS EM DROPDOWN COM TRÊS PÁGINAS -->
       <b-nav-item-dropdown
         id="my-nav-dropdown"
         class="espaçamento idioma"
-        text="Servicios"
+        text="Productos"
         toggle-class="nav-link-custom"
         right
       >
