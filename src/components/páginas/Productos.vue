@@ -88,13 +88,13 @@ export default {
   }
   .texto{
     margin: 0;
-    padding: 20px;
+    padding: 10px;
     list-style: none;
     margin-right: 20%;
     text-align: justify;
     font-size: 20px;
     grid-area: menu;
-    margin-top: 30px;
+    margin-top: 20px;
   }
   .texto-produto{
     margin: 0;
@@ -103,7 +103,7 @@ export default {
     text-align: justify;
     font-size: 20px;
     grid-area: menu;
-    margin-top: 0;
+    margin-top: 0px !important;
   }
   .texto-tspro{
     margin: 0;

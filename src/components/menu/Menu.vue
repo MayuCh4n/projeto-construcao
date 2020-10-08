@@ -37,7 +37,7 @@
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
-      <b-navbar-nav class="ml-auto">
+      <!-- <b-navbar-nav class="ml-auto">
         
 
         <b-nav-item-dropdown text="Idioma" class="espaçamento idioma" right>
@@ -48,7 +48,7 @@
 
         
           
-      </b-navbar-nav>
+      </b-navbar-nav> -->
     </b-collapse>
   </b-navbar>
 </div>

@@ -26,8 +26,7 @@
               
               <router-link to="/PhdMaster">PhdMaster</router-link>
             </li>
-            <li class="lista-alinhamento">
-              
+            <li class="lista-alinhamento">              
               <router-link to="/Metroval">Metroval</router-link>
             </li>
             <li class="lista-alinhamento">
@@ -63,7 +62,9 @@
 </template>
 
 <script>
-
+  export default{
+ 
+  }
 </script>
 
 <style>

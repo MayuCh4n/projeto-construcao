@@ -93,6 +93,11 @@
   .ajuste{
     font-size: 18px;
   }
+  @media(max-width: 991px){
+    .mapa{
+      width: 100%;
+    }
+  }
   input::-webkit-outer-spin-button,
   input::-webkit-inner-spin-button {
     -webkit-appearance: none;
